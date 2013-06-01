@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4606
+
+" Keep moving in given direction until we reach a new character under the
+" cursor.  (Like Ctrl-Arrow in Excel.)  Bound to Ctrl-Shift-Up/Down for Vim.
